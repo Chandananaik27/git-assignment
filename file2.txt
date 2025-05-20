@@ -2,4 +2,8 @@
 "adding more content to file"
 "welcome to git"
 "changes made in feature1 branch"
+<<<<<<< HEAD
 "line added in main branch" 
+=======
+"line added to the feature2" 
+>>>>>>> a3bc0ca (new line added to feature2)
