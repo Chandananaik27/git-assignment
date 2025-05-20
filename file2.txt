@@ -2,3 +2,4 @@
 "adding more content to file"
 "welcome to git"
 "changes made in feature1 branch"
+"line added in main branch" 
